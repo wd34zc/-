@@ -1,0 +1,15 @@
+here is the times you have open the file.
+this is the 1 time(s) you have open it.
+content:
+  i am a handsome boy.
+##FINISH##
+this is the 5 time(s) you have open it.
+content:
+  again,i am a handsome boy!
+##FINISH##
+this is the 9 time(s) you have open it.
+content:
+  jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+  jjjjjjjj
+##FINISH##
+  this is the 14 time(s) you have open it.
